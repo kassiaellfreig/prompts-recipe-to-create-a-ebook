@@ -8,8 +8,6 @@
 <a href="https://www.gnu.org/software/bash/" title="Go to Bash homepage"><img src="https://img.shields.io/badge/Prompt-Project-blue?logo=gnu-bash&amp;logoColor=white" alt="Made with Bash"></a></p>
 
 -------
-
-
 <p align="center">
 <img 
     src="./assets/cover.png"
@@ -20,18 +18,16 @@
 # Projeto EBOOK Gerado por I.A.s
 
 
- > ℹ️ **NOTE:** Este é o repositório desenvolvido durante o curso no qual fui instrutor técnico na plataforma da [DIO](https://dio.me)
 
 Projeto com o objetivo de gerar um ebook digital com as facilidades das ferramentas de IA. todos os prompts
 seguem abaixo.
 
-<a href="https://github.com/felipeAguiarCode/prompts-recipe-to-create-a-ebook/blob/main/output/ebook%20-%20css%20jedi%20output.pdf" title="View PDF now"> 📕Clique aqui para ler</a>
+<a href="https://github.com/kassiaellfreig/Artigos-e-estudos-de-caso/blob/main/OSINT.pdf" title="View PDF now"> 📕Clique aqui para ler</a>
 
 ## 💻 Tecnologias utilizadas no projeto
 
 - [ChatGPT](https://chat.openai.com/) 
-- [MidJourney](https://www.midjourney.com/app/)
-- [PowerPoint](https://www.microsoft.com/en/microsoft-365/powerpoint)
+- [Perplexity AI](https://www.perplexity.ai/)
 
 ## 🧠 Prompts
 
@@ -40,24 +36,23 @@ ChatGPT：
 
 |   Ação   | prompt                                                                                                                                                                                                                                                                         |
 | :------: | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-|  título  | Crie um título de um ebook sobre o tema de css, o ebookk é do nicho de programação e o subnicho é de css, o título deve ser épico e curto, e tenha uma temática de star wars no título, me liste 5 variações de títulos                                                        |
-| conteúdo | Faça um texto para ebook , com foco em CSS, listando os principais seletores CSS com exemplos em código {REGRAS} Explique sempre de uma maneira simples Deixe o texto enxuto, Sempre traga exemplos de código em contextos reais , sempre deixe um título sugestivo por tópico |
+|  título  | Crie um título de um ebook sobre OSINT, o título deve ser épico e curto e tenha uma temática de CSI digital, me liste 5 variações de títulos                                                        |
+| conteúdo | Crie um conteúdo didático, detalhado e investigativo voltado para iniciantes interessados em cibersegurança focada em OSINT (inteligência de fontes abertas). Aborde casos reais e complexos de investigação digital, como recuperação de contas hackeadas, rastreamento de pessoas desaparecidas, identificação de fraudes online e combate a fake news, sempre destacando o uso ético e legal das técnicas. Inclua explicações simples e práticas sobre ferramentas famosas como Maltego, Sherlock, Have I Been Pwned, Google Dorking, EXIF.tools, Chainalysis, entre outras. Apresente o conteúdo em capítulos temáticos que expliquem passo a passo os processos de análise digital, coleta de dados públicos, engenharia reversa, análise de metadados e monitoramento de fontes abertas, sempre com linguagem acessível, prática e relevante para quem quer aprender a proteger e investigar de forma ética no mundo digital. Finalize com casos bônus para desafiar o raciocínio e um guia sobre ética e legislação aplicadas ao hacking ético. |
 
 
-Midjourney：
+Chat GPT:
 
 |  Ação  | prompt                                                                                 |
 | :----: | -------------------------------------------------------------------------------------- |
-| título | A jedi in meditation pose, with your blue lightsaber floating, pixel art style --v 5.1 |
+| título | Create a modern tech book cover titled 'OSINT – The Advanced Game' with digital investigation themes. Use blue and gray tones, include icons like a magnifying glass, lock, and network lines, and convey a sense of mystery and cybersecurity.|
 
 ## ✨ Features
 
-- Conteúdo gerado via ChatGPT
-- Imagens geradas via MidJourney
+- Conteúdo gerado via Perplexity
+- Imagens geradas via Chat GPT
 
 ## 📚 Materiais
 
-- Imagens utilizadas em `assets`
 - ebook gerado durante as aulas em `output`
 
 ## 🛠️ Instruções de execução
@@ -71,21 +66,29 @@ Utilize os prompts acima nas ferramentas sugeridas para gerar o material base e 
       align=left 
       margin=10 
       width=80 
-      src="https://avatars.githubusercontent.com/u/37452836?v=4"
+      src="https://avatars.githubusercontent.com/u/142863586?s=400&u=2fc5637cb898ed3aa88726d6ac806d87d328ac24&v=4"
     />
-    <p>&nbsp&nbsp&nbspFelipe Aguiar<br>
+    <p>&nbsp&nbsp&nbspKássia Guedes<br>
     &nbsp&nbsp&nbsp
-    <a href="https://github.com/felipeAguiarCode">
-    GitHub</a>&nbsp;|&nbsp;
-    <a href="www.linkedin.com/in/
-felipe-exe">LinkedIn</a>
-&nbsp;|&nbsp;
-    <a href="https://www.instagram.com/felipeaguiar.exe/">
-    Instagram</a>
-&nbsp;|&nbsp;</p>
+    <a 
+        href="https://github.com/kassiaellfreig">
+        GitHub
+    </a>
+    &nbsp;|&nbsp;
+    <a 
+        href="https://www.linkedin.com/in/k%C3%A1ssia-e-f-098789129/">
+        LinkedIn
+    </a>
+    &nbsp;|&nbsp;
+    <a 
+        href="https://www.instagram.com/kassiaellfreig/">
+        Instagram
+    </a>
+    &nbsp;|&nbsp;</p>
 </p>
 <br/><br/>
 <p>
+
 
 ---
 
