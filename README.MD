@@ -10,7 +10,7 @@
 -------
 <p align="center">
 <img 
-    src="./assets/download.png"
+    src=".github/assets/download.png"
     width="400"  
 />
 </p>
